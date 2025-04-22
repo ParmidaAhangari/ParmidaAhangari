@@ -16,12 +16,16 @@
 - 🗣️ [Speech-to-Text Telegram Bot](https://github.com/username/project) — Converts voice to text in Persian & English.
 - 📷 [Photo & Video Organizer](https://github.com/username/project) — Sorts your media files by year!
 
+### 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-<p >
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parmidahn&show_icons=true&theme=onedark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parmidahn&theme=onedark" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmidahn&theme=onedark" alt="Top Langs" />
 </p>
 ---
 
