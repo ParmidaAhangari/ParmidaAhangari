@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Parmida!
+## 👋 Hi there, I'm Parmida ahangari!
 
 🎓 I'm a 3rd-year Computer Engineering student at the University of Guilan, passionate about software development and eager to learn new technologies every day.
 
