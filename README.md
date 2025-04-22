@@ -18,7 +18,7 @@
 
 
 ---
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=parmidahn&show_icons=true&theme=onedark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parmidahn&theme=onedark" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmidahn&theme=onedark" alt="Top Langs" />
