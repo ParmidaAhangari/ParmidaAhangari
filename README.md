@@ -5,7 +5,6 @@
 💻 I mostly work with **Python**, **Java**, and have recently started exploring **Django**. I enjoy building practical tools—like my recent Telegram bot that converts speech to text in Persian and English.
 
 🧠 I'm also diving into **Lexical Analysis** projects using **JFlex/Flex**, and experimenting with organizing files (photos & videos) through smart Python scripts.
-
 🐳 I'm learning **Docker** to deploy bots and services that stay up even when my PC is off. My goal is to master backend deployment and cloud technologies.
 
 🎸 Outside of coding, I play guitar and love music. I'm also interested in design—currently learning **Figma** to create beautiful UIs.
