@@ -12,7 +12,21 @@
 
 📌 Based in Iran, and looking forward to new opportunities worldwide—whether it's contributing to open-source, collaborating on interesting projects, or working abroad someday.
 
-Let's connect and build something amazing together! 🚀
+### 🔥 Featured Projects
+- 🗣️ [Speech-to-Text Telegram Bot](https://github.com/username/project) — Converts voice to text in Persian & English.
+- 📷 [Photo & Video Organizer](https://github.com/username/project) — Sorts your media files by year!
+
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parmidahn&show_icons=true&theme=onedark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parmidahn&theme=onedark" />
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmidahn&theme=onedark" alt="Top Langs" />
+  </a>
+</p>
 
 ---
 
