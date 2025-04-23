@@ -12,8 +12,8 @@
 📌 Based in Iran, and looking forward to new opportunities worldwide—whether it's contributing to open-source, collaborating on interesting projects, or working abroad someday.
 
 ### 🔥 Featured Projects
-- 🗣️ ([Speech-to-Text Telegram Bot](https://github.com/username/project](https://github.com/parmidaahangari/Speech-to-text)) — Converts voice to text in Persian & English.
-- 📷 ([Photo & Video Organizer](https://github.com/username/project](https://github.com/parmidaahangari/File-orgnizer)) — Sorts your media files by year!
+- 🗣️ [Speech-to-Text Telegram Bot](https://github.com/username/project](https://github.com/parmidaahangari/Speech-to-text)) — Converts voice to text in Persian & English.
+- 📷 [Photo & Video Organizer](https://github.com/username/project](https://github.com/parmidaahangari/File-orgnizer)) — Sorts your media files by year!
 
 ### 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
