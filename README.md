@@ -13,7 +13,7 @@
 
 ### 🔥 Featured Projects
 - 🗣️ [Speech-to-Text Telegram Bot](https://github.com/parmidaahangari/Speech-to-text) — Converts voice to text in Persian & English.
-- 📷 [Photo & Video Organizer](https://github.com/parmidaahangari/File-orgnizer)) — Sorts your media files by year!
+- 📷 [Photo & Video Organizer](https://github.com/parmidaahangari/File-orgnizer) — Sorts your media files by year!
 
 ### 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
